@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-College Student
-Glek Schmeeble 🙏
+- College Student
+- Glek Schmeeble 🙏
+
 Most of this will be college projects, the rest is random stuff I made for random games. 
